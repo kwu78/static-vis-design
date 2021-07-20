@@ -4,13 +4,13 @@ Design a static visualization for the given datasets (sketch on paper or use a d
 
 The assignment has two parts:
 
-## 1. Create a table
+## 1. Create a table:
 Use the dataset **movies2007-2012.csv** to **create a table** that presents its information as clearly and informatively as possible.
 
-## 2. Create a graph
+## 2. Create a graph:
 Use the dataset **gender-pay-gap-US-2014.csv** to **create a graph** that presents its information as clearly and informatively as possible.
 
-## Submission
+## Submission:
 Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
 ### Acknowledgments: 
