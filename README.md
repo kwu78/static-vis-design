@@ -12,11 +12,3 @@ Use the dataset **gender-pay-gap-US-2014.csv** to **create a graph** that presen
 
 ## Submission:
 Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
-
-### Acknowledgments: 
-Tableau's data visualization software is provided through the Tableau for Teaching program. We thank Tableau for making the system available to students in class.
-
-Data was obtained from the following sources:
-- Tennis: Jeff Sackmann https://github.com/JeffSackmann/tennis_atp
-- Prisons: The Upshot https://github.com/TheUpshot/prison-admissions
-- Title IX: Chronicle of Higher Education http://projects.chronicle.com/titleix/about/
