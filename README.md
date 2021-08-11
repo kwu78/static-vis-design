@@ -12,3 +12,9 @@ Use the dataset **gender-pay-gap-US-2014.csv** to **create a graph** that presen
 
 ## Submission:
 Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
+
+## Grading:
+Based on 
+- [30%] Appropriate choice of visual encodings
+- [20%] Effective execution
+each, for the table and the graph.
