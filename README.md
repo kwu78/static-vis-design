@@ -17,4 +17,5 @@ Your document should be in PDF format and with your submission for part 1 and pa
 Based on 
 - [30%] Appropriate choice of visual encodings
 - [20%] Effective execution
+
 each, for the table and the graph.
