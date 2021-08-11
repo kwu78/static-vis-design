@@ -1,4 +1,4 @@
-# Homework 1: Design Static Visualizations
+# HW 1: Design Static Visualizations
 
 Design a static visualization for the given datasets (sketch on paper or use a digital design tool, such as PowerPoint / Keynote). The purpose of this assignment is to practice designing data tables and graphs that (i) communicate effectively and (ii) are aesthetically pleasing. Included are two spreadsheets. Think about the data in each spreadsheet and what an analyst looking at that data would care about. You are allowed to derive new variables (attributes) that are combinations of the given ones, but you cannot make up totally new variables or values. 
 
